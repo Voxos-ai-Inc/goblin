@@ -1,18 +1,18 @@
-# Goblin: Tracking, Automation, and Skills
+# Goblin: Go Goblin Mode on Claude Code
 
 <p align="center">
   <img src=".github/goblin-logo.png" width="180" />
 </p>
 
 <p align="center">
-  <em>Mischief managed for Claude Code.</em>
+  <em>Go goblin mode on your codebase.</em>
 </p>
 
-Goblins are relentless. They don't sleep, they don't forget, and they never leave a task half-done. What looks like chaos is actually a finely tuned machine: every stolen moment tracked, every coin counted, every trick catalogued for reuse.
+Goblin mode: unapologetically self-indulgent, rejecting norms, just getting it done. No polish. No ceremony. No pretending your dev workflow is aesthetic.
 
-Goblin brings that energy to Claude Code. Session tracking, token budgeting, 10 slash commands, maintenance cadence, persistent memory, all running in the background, all under your command.
+Goblin brings that energy to Claude Code. Session tracking so you know where your time went. Token budgeting so you know where your money went. 10 slash commands, persistent memory, maintenance cadence. All running in the background while you do the work that matters.
 
-You don't manage Goblin. You unleash it and let it do its thing.
+You don't configure Goblin. You go goblin mode and let it handle the rest.
 
 ## What You Get
 
@@ -401,7 +401,7 @@ See `bench/README.md` for full methodology.
 
 **What does Goblin stand for?**
 
-It's named after the relentless mythical creature. But if you need a backronym for a slide deck: **G**uarding **O**utput, **B**udgeting, **L**ogging, **I**nspecting & **N**udging.
+It's a reference to going goblin mode: doing things your way, unapologetically. Oxford's 2022 word of the year. But if you need a backronym for a slide deck: **G**uarding **O**utput, **B**udgeting, **L**ogging, **I**nspecting & **N**udging.
 
 ## License
 
