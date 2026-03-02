@@ -8,7 +8,7 @@
   <em>Go goblin mode on your codebase.</em>
 </p>
 
-Session tracking, token budgeting, slash commands, maintenance cadence. Feral productivity infrastructure for devs who run 20 Claude Code tabs and regret nothing.
+Session tracking, token budgeting, slash commands, maintenance cadence. Feral productivity infrastructure for devs who run 10+ Claude Code tabs and regret nothing.
 
 Goblin mode: unapologetically self-indulgent, rejecting norms, just getting it done. No polish. No ceremony. No pretending your dev workflow is aesthetic. Oxford called it the 2022 word of the year. We called it a design philosophy.
 
